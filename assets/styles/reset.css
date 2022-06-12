@@ -1,0 +1,39 @@
+html,
+body {
+    height: 100%;
+    font-size: 14px;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: "PingFang SC","Lantinghei SC","Helvetica Neue","Helvetica","Arial","Microsoft YaHei","微软雅黑","STHeitiSC-Light","simsun","宋体","WenQuanYi Zen Hei","WenQuanYi Micro Hei","sans-serif";
+}
+
+div,
+p,
+ul,
+ol,
+li,
+a,
+img,
+span,
+header,
+footer,
+i {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+#__nuxt,
+#__layout {
+    height: 100%;
+}
+
+a {
+    color: #333;
+}
+
+ol, ul {
+    list-style: none;
+}
